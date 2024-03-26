@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT HelpDesk Projects:</h2>
 
 - <b>Azure Compute and Networking</b>
-  - [Creating resources in Azure]()
+  - [Creating Resources in Azure]()
  
 - <b>Ticketing Systems</b>
   - [osTicket]() <b><i>
