@@ -3,13 +3,14 @@
 <h2>👨‍💻 IT HelpDesk Projects:</h2>
 
 - <b>Azure Compute and Networking</b>
-  - [Creating Resources in Azure]()
+  - [Creating Resources in Azure](https://github.com/alibashir7/Azure-Resource)
+  - [Network Activities](https://github.com/alibashir7/Network-Activities)
  
 - <b>Ticketing Systems</b>
   - [osTicket]() <b><i>
   
 - <b>Virtual Private Networks</b>
-  - [VPN Setup and Usage (Proton VPN)]()
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/alibashir7/ProtonVPN)
   
 - <b>Active Directory</b>
   - [Deploying Active Directory and Creating Users]()
