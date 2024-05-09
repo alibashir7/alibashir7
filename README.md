@@ -13,7 +13,7 @@
   - [VPN Setup and Usage (Proton VPN)](https://github.com/alibashir7/ProtonVPN)
   
 - <b>Active Directory</b>
-  - [Deploying Active Directory and Creating Users]()
+  - [Deploying Active Directory]()
 
 - <b>Domain Name System</b>
   - [Building Intuition for DNS]()
