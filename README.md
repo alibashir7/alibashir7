@@ -5,18 +5,12 @@
 - <b>Azure Compute and Networking</b>
   - [Creating Resources in Azure](https://github.com/alibashir7/Azure-Resource)
   - [Network Activities](https://github.com/alibashir7/Network-Activities)
- 
-- <b>Ticketing Systems</b>
-  - [osTicket]() <b><i>
   
 - <b>Virtual Private Networks</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/alibashir7/ProtonVPN)
   
 - <b>Active Directory</b>
   - [Installing Active Directory Domain Services]()
-
-- <b>Domain Name System</b>
-  - [Building Intuition for DNS]()
  
 - <b>Network File Shares & Permissions</b>
   - [Network File Shares & Permissions]()
